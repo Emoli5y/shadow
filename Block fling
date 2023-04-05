@@ -2609,26 +2609,3 @@ while true do
 		Intro()
 	end
 end
-
-end) 
-
-Section:NewButton("FE Ink", "cost 50 k", function()
-
-loadstring(game:HttpGet(('https://pastefy.ga/Lb4LeKXB/raw'),true))()
-
---[[
-
-hat needed i Think
- 
- 
-https://www.roblox.com/catalog/48474313/Red-Roblox-Cap
- 
-https://www.roblox.com/catalog/62724852/Chestnut-Bun
- 
- 
-https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
- 
-https://www.roblox.com/catalog/63690008/Pal-Hair
- 
- 
-]] 
